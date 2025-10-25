@@ -38,4 +38,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 =======
 # contra
 contra is an hybrid of github and linkedin features 
+work flow of app 
+<img width="592" height="366" alt="Screenshot 2025-10-21 232914" src="https://github.com/user-attachments/assets/1104a328-783b-41a7-bdb7-255d6ef581b3" />
 

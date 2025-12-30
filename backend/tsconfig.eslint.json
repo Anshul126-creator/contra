@@ -1,0 +1,12 @@
+{
+  "extends": "./tsconfig.json",
+  "include": [
+    "src",
+    "*.config.ts",
+    "*.config.mts",
+    "*.config.mjs",
+    "*.config.js",
+    "vitest.config.ts",
+    "prisma.config.ts"
+  ]
+}
